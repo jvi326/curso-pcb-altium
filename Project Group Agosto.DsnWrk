@@ -2,19 +2,22 @@
 Version=1.0
 
 [Project1]
-ProjectPath=Voltage regulator - AMS1117\AMS1117_5v\AMS1117-5v\3 archivos\AMS1117-5v.LibPkg
+ProjectPath=PCB_Curso_Agosto\PCB_Curso_Agosto.PrjPcb
 
 [Project2]
-ProjectPath=Voltage regulator - AMS1117\AMS1117_3v3\AMS1117-3v3\AMS1117-3v3.LibPkg
+ProjectPath=Voltage regulator - AMS1117\AMS1117_5v\AMS1117-5v\3 archivos\AMS1117-5v.LibPkg
 
 [Project3]
-ProjectPath=Terminal Screw 5.08mm 16AWG (6 pin)\1729160\1729160.LibPkg
+ProjectPath=Voltage regulator - AMS1117\AMS1117_3v3\AMS1117-3v3\AMS1117-3v3.LibPkg
 
 [Project4]
-ProjectPath=LED SMD 0805\SML-LXT0805IW-TR\SML-LXT0805IW-TR.LibPkg
+ProjectPath=Terminal Screw 5.08mm 16AWG (6 pin)\1729160\1729160.LibPkg
 
 [Project5]
-ProjectPath=MOSFET NTS4001NT1G\Project Outputs for NTS4001NT1G\NTS4001NT1G\NTS4001NT1G.LibPkg
+ProjectPath=LED SMD 0805\SML-LXT0805IW-TR\SML-LXT0805IW-TR.LibPkg
 
 [Project6]
+ProjectPath=MOSFET NTS4001NT1G\Project Outputs for NTS4001NT1G\NTS4001NT1G\NTS4001NT1G.LibPkg
+
+[Project7]
 ProjectPath=Button\SKRPABE010\SKRPABE010.LibPkg
