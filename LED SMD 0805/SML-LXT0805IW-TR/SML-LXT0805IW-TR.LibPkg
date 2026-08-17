@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Button-SKRPABE010.SchLib
+DocumentPath=LEDC2012X120N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -64,10 +64,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OZXFWOZS
+DocumentUniqueId=
 
 [Document2]
-DocumentPath=Button-SW_SKRPABE010.PcbLib
+DocumentPath=SML-LXT0805IW-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,10 +81,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BOYJGLSE
+DocumentUniqueId=
 
 [SearchPath1]
-Path=C:\Users\emili\Desktop\Altium\Flight_Computer_2026_EneroJunio\PCB_IGNIS-1 (4 Layers)\PCB_Project_IGNIS-1\Components\Button\SKRPABE010\*.*
+Path=C:\Users\emili\Desktop\Aris Altium\curso-pcb-altium\LED SMD 0805\SML-LXT0805IW-TR\*.*
 IncludeSubFolders=1
 
 [OutputGroup1]
@@ -747,6 +747,16 @@ Type158=1
 Type159=1
 Type160=1
 Type161=1
+Type162=1
+Type163=1
+Type164=1
+Type165=1
+Type166=1
+Type167=1
+Type168=1
+Type169=1
+Type170=1
+Type171=1
 
 [Difference Levels]
 Type1=1
@@ -837,6 +847,13 @@ Type85=1
 Type86=1
 Type87=1
 Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
 
 [Electrical Rules Check]
 Type1=1
